@@ -2,3 +2,5 @@ This is a generated autounattend.xml file that will bypass Windows 11 TPM requir
 You may find the generator used to make this XML file at: https://schneegans.de/windows/unattend-generator/
 
 To use this file, right click on it, save it to your PC, then copy the file to the root drive of your Windows 11 install USB.
+
+[EXAMPLE](Image1.jpg)
